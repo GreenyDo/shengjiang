@@ -1,0 +1,22 @@
+html,body,ul,li{
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+#main-body{
+	width: 400px;
+	margin: 0 auto;
+	margin-top: 150px;
+	text-align: center;
+}
+ul{
+	margin-bottom: 30px;
+	font-size: 30px;
+	
+}
+li{
+	list-style: none;
+	width: 90px;
+	border: 2px solid green;
+	margin: 0 auto;
+}
